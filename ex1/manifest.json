@@ -1,0 +1,11 @@
+{
+  "name" : "Ex1",
+  "version": "0.1",
+  "manifest_version" : 2,
+  "description" : "ブログへのリンク",
+  "browser_action" : {
+    "default_icon" : "icon.png",
+    "default_title": "fafafa",
+    "default_popup": "popup.html"
+  }
+}
